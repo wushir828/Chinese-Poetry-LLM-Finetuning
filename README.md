@@ -11,7 +11,9 @@
 
 **模型链接**: [Your-HF-Username/Qwen1.5-1.8B-Poet-LoRA](https://huggingface.co/wushir828/Qwen1.5-1.8B-Chinese-Poet-LoRA)
 ## 最终成果展示<img width="1311" height="83" alt="Image" src="https://github.com/user-attachments/assets/f75e675c-0542-4f54-bfa7-22ff4273c7f0" /><img width="1430" height="92" alt="Image" src="https://github.com/user-attachments/assets/ac1e52f5-fd01-4615-abe0-471fe9189878" /><img width="1293" height="336" alt="Image" src="https://github.com/user-attachments/assets/3bbe09f7-2342-423d-ba67-347b196ae6f2" />
-## TRAINNG LOSS<img width="233" height="840" alt="Image" src="https://github.com/user-attachments/assets/52ba8b37-2c50-410a-84b6-635adba9fe1a" /><img width="234" height="846" alt="Image" src="https://github.com/user-attachments/assets/9d80d908-3c16-4300-a1ba-d2386c83cbaa" />
+## TRAINNG LOSS
+<img width="233" height="840" alt="Image" src="https://github.com/user-attachments/assets/52ba8b37-2c50-410a-84b6-635adba9fe1a" />
+<img width="234" height="846" alt="Image" src="https://github.com/user-attachments/assets/9d80d908-3c16-4300-a1ba-d2386c83cbaa" />
 ---
 
 ## 📖 项目概述 (Project Overview)
